@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35bf08fe-49a7-48f7-b23c-054a9e9ff107" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="35bf08fe-49a7-48f7-b23c-054a9e9ff107" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +32,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DailyEmpWage">
+  <component name="RunManager" selected="Application.AddPartimeEmployee">
+    <configuration name="AddPartimeEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="empwagecomputation.AddPartimeEmployee" />
+      <module name="Empwagecomputation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="empwagecomputation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DailyEmpWage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="empwagecomputation.DailyEmpWage" />
       <module name="Empwagecomputation" />
@@ -76,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddPartimeEmployee" />
         <item itemvalue="Application.DailyEmpWage" />
         <item itemvalue="Application.EmployeeAttendance" />
         <item itemvalue="Application.DisplayMessage" />
