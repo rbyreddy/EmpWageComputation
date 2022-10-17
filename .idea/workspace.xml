@@ -34,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.WagesForMonth">
+  <component name="RunManager" selected="Application.TotalReachedForMonth">
     <configuration name="AddPartimeEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="empwagecomputation.AddPartimeEmployee" />
       <module name="Empwagecomputation" />
@@ -74,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeAttendance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="empwagecomputation.EmployeeAttendance" />
+    <configuration name="TotalReachedForMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="empwagecomputation.TotalReachedForMonth" />
       <module name="Empwagecomputation" />
       <extension name="coverage">
         <pattern>
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TotalReachedForMonth" />
         <item itemvalue="Application.WagesForMonth" />
         <item itemvalue="Application.AddPartimeEmployee" />
         <item itemvalue="Application.EmpWageUsingSwitchCase" />
         <item itemvalue="Application.DailyEmpWage" />
-        <item itemvalue="Application.EmployeeAttendance" />
       </list>
     </recent_temporary>
   </component>
